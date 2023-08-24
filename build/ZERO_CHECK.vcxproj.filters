@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\Programming\C++\Cpp_projects\animals-CRUD\build\CMakeFiles\338b5f5d163561f6951d3b8f36b6ae2a\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D6A94301-996F-3125-BDD0-65A8801D8E8D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
