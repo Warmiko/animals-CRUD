@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\Programming\C++\Cpp_projects\animals-CRUD\build\_deps\googletest-subbuild\CMakeFiles\c8ae971ddfb0613362a7fcf63ae1cd62\googletest-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Programming\C++\Cpp_projects\animals-CRUD\build\_deps\googletest-subbuild\CMakeFiles\c8ae971ddfb0613362a7fcf63ae1cd62\googletest-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Programming\C++\Cpp_projects\animals-CRUD\build\_deps\googletest-subbuild\CMakeFiles\c8ae971ddfb0613362a7fcf63ae1cd62\googletest-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Programming\C++\Cpp_projects\animals-CRUD\build\_deps\googletest-subbuild\CMakeFiles\c8ae971ddfb0613362a7fcf63ae1cd62\googletest-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Programming\C++\Cpp_projects\animals-CRUD\build\_deps\googletest-subbuild\CMakeFiles\c8ae971ddfb0613362a7fcf63ae1cd62\googletest-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Programming\C++\Cpp_projects\animals-CRUD\build\_deps\googletest-subbuild\CMakeFiles\c8ae971ddfb0613362a7fcf63ae1cd62\googletest-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Programming\C++\Cpp_projects\animals-CRUD\build\_deps\googletest-subbuild\CMakeFiles\c8ae971ddfb0613362a7fcf63ae1cd62\googletest-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Programming\C++\Cpp_projects\animals-CRUD\build\_deps\googletest-subbuild\CMakeFiles\c8ae971ddfb0613362a7fcf63ae1cd62\googletest-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Programming\C++\Cpp_projects\animals-CRUD\build\_deps\googletest-subbuild\CMakeFiles\466cc0d384b8fc7777d8974a26a07f37\googletest-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Programming\C++\Cpp_projects\animals-CRUD\build\_deps\googletest-subbuild\CMakeFiles\f5e77932dc099545e934b3cacf4e88fa\googletest-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Programming\C++\Cpp_projects\animals-CRUD\build\_deps\googletest-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\Programming\C++\Cpp_projects\animals-CRUD\build\_deps\googletest-subbuild\CMakeFiles\googletest-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{51DA4685-C98C-359F-8ED0-DC0681BB0310}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

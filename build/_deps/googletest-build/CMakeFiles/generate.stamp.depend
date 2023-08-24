@@ -1,0 +1,4 @@
+# CMake generation dependency list for this directory.
+E:/Programming/C++/CMake/share/cmake-3.27/Modules/CMakeDependentOption.cmake
+E:/Programming/C++/CMake/share/cmake-3.27/Modules/GNUInstallDirs.cmake
+E:/Programming/C++/Cpp_projects/animals-CRUD/build/_deps/googletest-src/CMakeLists.txt

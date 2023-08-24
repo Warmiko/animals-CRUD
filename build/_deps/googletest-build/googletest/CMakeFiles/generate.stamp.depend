@@ -1,0 +1,18 @@
+# CMake generation dependency list for this directory.
+E:/Programming/C++/CMake/share/cmake-3.27/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in
+E:/Programming/C++/CMake/share/cmake-3.27/Modules/CMakePackageConfigHelpers.cmake
+E:/Programming/C++/CMake/share/cmake-3.27/Modules/CheckCSourceCompiles.cmake
+E:/Programming/C++/CMake/share/cmake-3.27/Modules/CheckIncludeFile.cmake
+E:/Programming/C++/CMake/share/cmake-3.27/Modules/CheckLibraryExists.cmake
+E:/Programming/C++/CMake/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake
+E:/Programming/C++/CMake/share/cmake-3.27/Modules/FindPackageMessage.cmake
+E:/Programming/C++/CMake/share/cmake-3.27/Modules/FindPython.cmake
+E:/Programming/C++/CMake/share/cmake-3.27/Modules/FindPython/Support.cmake
+E:/Programming/C++/CMake/share/cmake-3.27/Modules/FindThreads.cmake
+E:/Programming/C++/CMake/share/cmake-3.27/Modules/Internal/CheckSourceCompiles.cmake
+E:/Programming/C++/CMake/share/cmake-3.27/Modules/WriteBasicConfigVersionFile.cmake
+E:/Programming/C++/Cpp_projects/animals-CRUD/build/_deps/googletest-src/googletest/CMakeLists.txt
+E:/Programming/C++/Cpp_projects/animals-CRUD/build/_deps/googletest-src/googletest/cmake/Config.cmake.in
+E:/Programming/C++/Cpp_projects/animals-CRUD/build/_deps/googletest-src/googletest/cmake/gtest.pc.in
+E:/Programming/C++/Cpp_projects/animals-CRUD/build/_deps/googletest-src/googletest/cmake/gtest_main.pc.in
+E:/Programming/C++/Cpp_projects/animals-CRUD/build/_deps/googletest-src/googletest/cmake/internal_utils.cmake

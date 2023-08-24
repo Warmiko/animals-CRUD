@@ -1,0 +1,5 @@
+if(EXISTS "E:/Programming/C++/Cpp_projects/animals-CRUD/build/Animals-CRUD-ut[1]_tests.cmake")
+  include("E:/Programming/C++/Cpp_projects/animals-CRUD/build/Animals-CRUD-ut[1]_tests.cmake")
+else()
+  add_test(Animals-CRUD-ut_NOT_BUILT Animals-CRUD-ut_NOT_BUILT)
+endif()
