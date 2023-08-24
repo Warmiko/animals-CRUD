@@ -1,8 +1,6 @@
 # CMake generation dependency list for this directory.
-E:/Programming/C++/CMake/share/cmake-3.27/Modules/CMakeDetermineSystem.cmake
 E:/Programming/C++/CMake/share/cmake-3.27/Modules/CMakeGenericSystem.cmake
 E:/Programming/C++/CMake/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake
-E:/Programming/C++/CMake/share/cmake-3.27/Modules/CMakeSystem.cmake.in
 E:/Programming/C++/CMake/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake
 E:/Programming/C++/CMake/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake
 E:/Programming/C++/CMake/share/cmake-3.27/Modules/ExternalProject.cmake
